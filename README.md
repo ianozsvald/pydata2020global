@@ -1,4 +1,8 @@
+# pydata global 2020 
 
+Experiments for conference talk - note this is not meant for others to read...
+
+Conda Environment: pydata2020global
 
 # Experiments
 
